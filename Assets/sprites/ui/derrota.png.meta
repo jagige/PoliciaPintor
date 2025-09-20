@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: 58517b13b2a12a443b67c5a6e5e6f5c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3413166888850720166
+    second: derrota_0
+  - first:
+      213: 7099910353040104403
+    second: derrota_1
+  - first:
+      213: 6890263267049347336
+    second: derrota_2
+  - first:
+      213: -17496731984629141
+    second: derrota_3
+  - first:
+      213: 5542453156541344766
+    second: derrota_4
+  - first:
+      213: 8914984842718358341
+    second: derrota_5
+  - first:
+      213: 2040744469665907106
+    second: derrota_6
+  - first:
+      213: 8240803157817825321
+    second: derrota_7
+  - first:
+      213: -5826412638313314285
+    second: derrota_8
+  - first:
+      213: -6377820580594455973
+    second: derrota_9
+  - first:
+      213: -7434019956706111269
+    second: derrota_10
+  - first:
+      213: -7961010606253760436
+    second: derrota_11
+  - first:
+      213: 7228344351341977992
+    second: derrota_12
+  - first:
+      213: 2802382386727738747
+    second: derrota_13
+  - first:
+      213: 2443558735996861860
+    second: derrota_14
+  - first:
+      213: -2774241420568868858
+    second: derrota_15
+  - first:
+      213: -265481721016685737
+    second: derrota_16
+  - first:
+      213: 6338847741217050368
+    second: derrota_17
+  - first:
+      213: 6638787502144262686
+    second: derrota_18
+  - first:
+      213: 2175785009595599251
+    second: derrota_19
+  - first:
+      213: -7060991716423067374
+    second: derrota_20
+  - first:
+      213: -6568960450620497650
+    second: derrota_21
+  - first:
+      213: 3899938644572264065
+    second: derrota_22
+  - first:
+      213: -1165325581976473205
+    second: derrota_23
+  - first:
+      213: 5230700586451839586
+    second: derrota_24
+  - first:
+      213: -3896451894708376641
+    second: derrota_25
+  - first:
+      213: -7139863415954382852
+    second: derrota_26
+  - first:
+      213: 5661182273971745286
+    second: derrota_27
+  - first:
+      213: 7272096987933435785
+    second: derrota_28
+  - first:
+      213: 4327125136264189031
+    second: derrota_29
+  - first:
+      213: 5273042919007420802
+    second: derrota_30
+  - first:
+      213: 6309076589846342145
+    second: derrota_31
+  - first:
+      213: 5422804727587462439
+    second: derrota_32
+  - first:
+      213: -4129489096494225210
+    second: derrota_33
+  - first:
+      213: -3890811514464110469
+    second: derrota_34
+  - first:
+      213: 3983660234497278111
+    second: derrota_35
+  - first:
+      213: -922468026442440296
+    second: derrota_36
+  - first:
+      213: 4546046439238220282
+    second: derrota_37
+  - first:
+      213: 6899306946360888759
+    second: derrota_38
+  - first:
+      213: -9153303921899988559
+    second: derrota_39
+  - first:
+      213: -7454433289944530092
+    second: derrota_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: derrota_0
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 473
+        width: 109
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a58211a3310e5f20800000000000000
+      internalID: 3413166888850720166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_1
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 473
+        width: 109
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbd21269d2f78260800000000000000
+      internalID: 7099910353040104403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_2
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 473
+        width: 109
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80916696fe12f9f50800000000000000
+      internalID: 6890263267049347336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_3
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 459
+        width: 109
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b627351a0d6d1cff0800000000000000
+      internalID: -17496731984629141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_4
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 473
+        width: 109
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efba3ebd7cfbaec40800000000000000
+      internalID: 5542453156541344766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_5
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 328
+        width: 94
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b28381b7368bb70800000000000000
+      internalID: 8914984842718358341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_6
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 420
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a187c7684e225c10800000000000000
+      internalID: 2040744469665907106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_7
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 328
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92816a57fc63d5270800000000000000
+      internalID: 8240803157817825321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 328
+        width: 109
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3180d7a339c642fa0800000000000000
+      internalID: -5826412638313314285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_9
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 328
+        width: 94
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5aed7c19fd6d77a0800000000000000
+      internalID: -6377820580594455973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_10
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 328
+        width: 109
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd01e5b8c3e05d890800000000000000
+      internalID: -7434019956706111269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_11
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 328
+        width: 94
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40a029680fc48190800000000000000
+      internalID: -7961010606253760436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_12
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 328
+        width: 109
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881a0ffd3ec305460800000000000000
+      internalID: 7228344351341977992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_13
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 328
+        width: 109
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dd7bddeef04e620800000000000000
+      internalID: 2802382386727738747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_14
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 328
+        width: 109
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad35ee49b349e120800000000000000
+      internalID: 2443558735996861860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 92
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60841d5602aef79d0800000000000000
+      internalID: -2774241420568868858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 119
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75be07408c1d05cf0800000000000000
+      internalID: -265481721016685737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_17
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 119
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f878c9f6c18f750800000000000000
+      internalID: 6338847741217050368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 119
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e129c943f06b12c50800000000000000
+      internalID: 6638787502144262686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_19
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 92
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399c09c30f0f13e10800000000000000
+      internalID: 2175785009595599251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_20
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 92
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21990a4d171520e90800000000000000
+      internalID: -7060991716423067374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_21
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 92
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01ec25264d56d4a0800000000000000
+      internalID: -6568960450620497650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_22
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 92
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1865c83d88d5f1630800000000000000
+      internalID: 3899938644572264065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_23
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 92
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81fd9eae8ee3dfe0800000000000000
+      internalID: -1165325581976473205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_24
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 119
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26aa3ed487e279840800000000000000
+      internalID: 5230700586451839586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_25
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 92
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb628365a50de9c0800000000000000
+      internalID: -3896451894708376641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_26
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 92
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff5b334d0c1aec90800000000000000
+      internalID: -7139863415954382852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_27
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 92
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602f2d0b84f809e40800000000000000
+      internalID: 5661182273971745286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_28
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 92
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987e5f96eadabe460800000000000000
+      internalID: 7272096987933435785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_29
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 92
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764d0b5a2690d0c30800000000000000
+      internalID: 4327125136264189031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_30
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 92
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28183d8d89c9d2940800000000000000
+      internalID: 5273042919007420802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 92
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a26864bb75e8750800000000000000
+      internalID: 6309076589846342145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_32
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 92
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72dd8222b2ca14b40800000000000000
+      internalID: 5422804727587462439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_33
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 92
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8ec93bb8b11b6c0800000000000000
+      internalID: -4129489096494225210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_34
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 92
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78fd50ca8f010ac0800000000000000
+      internalID: -3890811514464110469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_35
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 92
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f904f0f70edc84730800000000000000
+      internalID: 3983660234497278111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_36
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 92
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8912e37a73cb233f0800000000000000
+      internalID: -922468026442440296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_37
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 92
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af93937862dc61f30800000000000000
+      internalID: 4546046439238220282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_38
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 92
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdc9361d134fbf50800000000000000
+      internalID: 6899306946360888759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_39
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 92
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b916fd449ee8f080800000000000000
+      internalID: -9153303921899988559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: derrota_40
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 92
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45382070b688c8890800000000000000
+      internalID: -7454433289944530092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      derrota_0: 3413166888850720166
+      derrota_1: 7099910353040104403
+      derrota_10: -7434019956706111269
+      derrota_11: -7961010606253760436
+      derrota_12: 7228344351341977992
+      derrota_13: 2802382386727738747
+      derrota_14: 2443558735996861860
+      derrota_15: -2774241420568868858
+      derrota_16: -265481721016685737
+      derrota_17: 6338847741217050368
+      derrota_18: 6638787502144262686
+      derrota_19: 2175785009595599251
+      derrota_2: 6890263267049347336
+      derrota_20: -7060991716423067374
+      derrota_21: -6568960450620497650
+      derrota_22: 3899938644572264065
+      derrota_23: -1165325581976473205
+      derrota_24: 5230700586451839586
+      derrota_25: -3896451894708376641
+      derrota_26: -7139863415954382852
+      derrota_27: 5661182273971745286
+      derrota_28: 7272096987933435785
+      derrota_29: 4327125136264189031
+      derrota_3: -17496731984629141
+      derrota_30: 5273042919007420802
+      derrota_31: 6309076589846342145
+      derrota_32: 5422804727587462439
+      derrota_33: -4129489096494225210
+      derrota_34: -3890811514464110469
+      derrota_35: 3983660234497278111
+      derrota_36: -922468026442440296
+      derrota_37: 4546046439238220282
+      derrota_38: 6899306946360888759
+      derrota_39: -9153303921899988559
+      derrota_4: 5542453156541344766
+      derrota_40: -7454433289944530092
+      derrota_5: 8914984842718358341
+      derrota_6: 2040744469665907106
+      derrota_7: 8240803157817825321
+      derrota_8: -5826412638313314285
+      derrota_9: -6377820580594455973
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
