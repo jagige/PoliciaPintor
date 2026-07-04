@@ -13,8 +13,8 @@ public class playerMovement : MonoBehaviour
     public Transform groundcheckPosition;
     public Animator _animator;
     //sound
-    public AudioSource _audioSource;
-    public AudioClip _jumpAudioClip;
+    
+    [SerializeField] private AudioClip _jumpAudioClip;
 
     void Start()
     {
@@ -52,8 +52,8 @@ public class playerMovement : MonoBehaviour
         if ((Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.UpArrow)) && _isGrounded)
         {
             _rigidbody2D.AddForceY(jumpForce, ForceMode2D.Impulse);
-            _audioSource.clip = _jumpAudioClip;
-            _audioSource.Play();
+            controladorSonidos.instance.ejecutarSonido(_jumpAudioClip);
+
         }
 
         controlarAnimaciones();

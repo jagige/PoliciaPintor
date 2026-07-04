@@ -18,7 +18,7 @@ public class controladorSonidos : MonoBehaviour
         }
         else
         {
-           // Destroy(GameObject);
+            Destroy(gameObject);
         }
         _AudioSource = GetComponent<AudioSource>();
     }
