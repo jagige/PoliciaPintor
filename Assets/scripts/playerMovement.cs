@@ -1,4 +1,7 @@
+using System.Collections;
 using UnityEngine;
+using UnityEngine.UIElements;
+
 
 public class playerMovement : MonoBehaviour
 {
@@ -15,6 +18,7 @@ public class playerMovement : MonoBehaviour
     //sound
     
     [SerializeField] private AudioClip _jumpAudioClip;
+    [SerializeField] private AudioClip _pintando;
 
     void Start()
     {
@@ -71,4 +75,20 @@ public class playerMovement : MonoBehaviour
         _animator.SetFloat("velocidadVertical", Mathf.Sign(_rigidbody2D.linearVelocityY));
     }
 
+    //PASAR A CUANDO SE BORRA EL GRAFITI, PORQUE ACÁ SUENA SIEMPRE QUE TOCA EL GRAFITI
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("grafiti"))
+        {
+            _animator.SetBool("pintar", true);
+            StartCoroutine(pintar());
+            controladorSonidos.instance.ejecutarSonido(_pintando);
+        }
+    }
+
+    private IEnumerator pintar()
+    {
+         yield return new WaitForSeconds(1);
+        _animator.SetBool("pintar", false);
+    }
 }

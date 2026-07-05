@@ -3170,7 +3170,7 @@ GameObject:
   - component: {fileID: 350671226}
   m_Layer: 0
   m_Name: grafiti x2_0
-  m_TagString: Untagged
+  m_TagString: grafiti
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9275,6 +9275,7 @@ MonoBehaviour:
   groundcheckPosition: {fileID: 307722909}
   _animator: {fileID: 1189825778}
   _jumpAudioClip: {fileID: 8300000, guid: 71718dd8137323e4b8a47cc7e860e890, type: 3}
+  _pintando: {fileID: 8300000, guid: 40621ab336ce1db4696b49f47fa22299, type: 3}
 --- !u!114 &1189825777
 MonoBehaviour:
   m_ObjectHideFlags: 0
