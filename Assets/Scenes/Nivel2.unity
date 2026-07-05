@@ -10211,6 +10211,8 @@ MonoBehaviour:
   vidaGrafitis: {fileID: 274423162}
   pinturaText: {fileID: 745992934}
   grafitiText: {fileID: 568407019}
+  _pintando: {fileID: 8300000, guid: 40621ab336ce1db4696b49f47fa22299, type: 3}
+  _animator: {fileID: 1189825778}
 --- !u!95 &1189825778
 Animator:
   serializedVersion: 7

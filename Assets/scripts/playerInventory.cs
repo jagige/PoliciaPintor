@@ -1,6 +1,7 @@
 using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using System.Collections;
 
 public class playerInventory : MonoBehaviour
 {
@@ -9,6 +10,9 @@ public class playerInventory : MonoBehaviour
     int numeroDeGrafitis;
     public TextMeshProUGUI pinturaText;
     public TextMeshProUGUI grafitiText;
+
+    [SerializeField] private AudioClip _pintando;
+    [SerializeField] private Animator _animator;
 
     private void Start()
     {
@@ -28,7 +32,11 @@ public class playerInventory : MonoBehaviour
             grafitiText.text = numeroDeGrafitis.ToString();
             pintura = pintura - pinturaNecesaria;
             pinturaText.text = pintura.ToString();
-            
+
+        _animator.SetBool("pintar", true);
+        controladorSonidos.instance.ejecutarSonido(_pintando);
+        StartCoroutine(pintar());
+
     }
     private void Update()
     {
@@ -36,6 +44,13 @@ public class playerInventory : MonoBehaviour
         {
             SceneManager.LoadScene("menuVictoria");
         }
+    }
+
+    
+    private IEnumerator pintar()
+    {
+        yield return new WaitForSeconds(1);
+        _animator.SetBool("pintar", false);
     }
 
 }
