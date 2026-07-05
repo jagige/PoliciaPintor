@@ -1,9 +1,12 @@
 using Unity.VisualScripting;
 using UnityEngine;
+using System.Collections;
 
 public class grafiti : MonoBehaviour
 {
     public int requisitoGrafiti;
+    [SerializeField] private Animator _animator;
+    [SerializeField] private AudioClip _pintando;
 
     private void Start()
     {
@@ -18,10 +21,10 @@ public class grafiti : MonoBehaviour
         {
                 playerInventory.borrarGrafiti(requisitoGrafiti);
 
-                Destroy(gameObject);
-
+            _animator.SetBool("pintar", true);
+            controladorSonidos.instance.ejecutarSonido(_pintando);
+            Destroy(gameObject);
         }
      }
-    
 
 }

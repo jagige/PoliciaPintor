@@ -18,7 +18,7 @@ public class playerMovement : MonoBehaviour
     //sound
     
     [SerializeField] private AudioClip _jumpAudioClip;
-    [SerializeField] private AudioClip _pintando;
+    //[SerializeField] private AudioClip _pintando;
 
     void Start()
     {
@@ -61,6 +61,11 @@ public class playerMovement : MonoBehaviour
         }
 
         controlarAnimaciones();
+
+        if (_animator.GetBool("pintar") == true)
+        {
+            StartCoroutine(pintar());
+        }
     }
 
     private void OnDrawGizmos()//esto es para ver el circulo colicionador
@@ -76,7 +81,7 @@ public class playerMovement : MonoBehaviour
     }
 
     //PASAR A CUANDO SE BORRA EL GRAFITI, PORQUE ACÁ SUENA SIEMPRE QUE TOCA EL GRAFITI
-    private void OnTriggerEnter2D(Collider2D other)
+    /*private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("grafiti"))
         {
@@ -84,7 +89,7 @@ public class playerMovement : MonoBehaviour
             StartCoroutine(pintar());
             controladorSonidos.instance.ejecutarSonido(_pintando);
         }
-    }
+    }*/
 
     private IEnumerator pintar()
     {
