@@ -29,12 +29,12 @@ public class gameManager : MonoBehaviour
             reiniciar();
         }
 
-        if (Input.GetKeyDown(KeyCode.M)) 
+        if (Input.GetKeyDown(KeyCode.P)) 
         {
             SceneManager.LoadScene("menuVictoria");
         }
 
-        if (Input.GetKeyDown(KeyCode.N))
+        if (Input.GetKeyDown(KeyCode.O))
         {
             SceneManager.LoadScene("menuDerrota");
         }
