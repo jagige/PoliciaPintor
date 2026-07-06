@@ -29,6 +29,16 @@ public class gameManager : MonoBehaviour
             reiniciar();
         }
 
+        if (Input.GetKeyDown(KeyCode.M)) 
+        {
+            SceneManager.LoadScene("menuVictoria");
+        }
+
+        if (Input.GetKeyDown(KeyCode.N))
+        {
+            SceneManager.LoadScene("menuDerrota");
+        }
+
 
     }
     public void reiniciar()
