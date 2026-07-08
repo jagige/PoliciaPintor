@@ -7,6 +7,7 @@ public class playerHealt : MonoBehaviour
     public int lives;
     public gameManager reinicio;
     public TextMeshProUGUI vidasText;
+    [SerializeField] private AudioClip _sfxDead;
 
     private void Start()
     {
@@ -14,10 +15,10 @@ public class playerHealt : MonoBehaviour
     }
     private void Update() 
     {
-        if (Input.GetKeyDown(KeyCode.L))//hacer daño al jugador presionando L
+        /*if (Input.GetKeyDown(KeyCode.L))//hacer daño al jugador presionando L
         {
             DamagePlayer(1);
-        }
+        }*/
 
         if (lives <= 0)
         {
@@ -37,5 +38,6 @@ public class playerHealt : MonoBehaviour
         {
             vidasText.text = "0";
         }
+        controladorSonidos.instance.ejecutarSonido(_sfxDead);
     }
 }
